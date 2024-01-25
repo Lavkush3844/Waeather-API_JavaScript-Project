@@ -1,4 +1,4 @@
-<h1>JavaScript Project</h1>
+<h1>Weather API Project</h1>
 <h2>This Project is made using JavaScript</h2>
 <h3>Screenshots :</h3>
 <br/>
